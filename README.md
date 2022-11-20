@@ -30,8 +30,8 @@
 
 *В качестве ответа пришлите снимки экрана с поэтапным выполнением задания.*
 
-![alt text](https://github.com/vasev85/cryptofs/blob/main/ex2-2.png?raw=true) 
-![alt text](https://github.com/vasev85/cryptofs/blob/main/ex2-1.png?raw=true)  
+![alt text](https://github.com/vasev85/cryptofs/blob/main/ex2-1.png?raw=true) 
+![alt text](https://github.com/vasev85/cryptofs/blob/main/ex2-2.png?raw=true)  
 
 
 
